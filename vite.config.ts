@@ -7,7 +7,7 @@ import { componentTagger } from "lovable-tagger";
 export default defineConfig(({ mode }) => ({
   // 🔴 ВАЖНО: base для GitHub Pages
   // https://<user>.github.io/ember-bloom/
-  base: "/ember-bloom/",
+  base: "/",
 
   server: {
     host: true,
